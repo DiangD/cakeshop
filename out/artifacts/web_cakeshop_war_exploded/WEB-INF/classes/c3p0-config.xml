@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c3p0-config>
+      <default-config>
+        <property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/cakeshop?characterEncoding=UTF-8&amp;useSSL=true&amp;serverTimezone=UTC</property>
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="user">root</property>
+        <property name="password">990706</property>
+      </default-config>
+</c3p0-config>
